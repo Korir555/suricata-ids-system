@@ -1,0 +1,6 @@
+rules/
+*.pcap
+*.log
+__pycache__/
+venv/
+.env
